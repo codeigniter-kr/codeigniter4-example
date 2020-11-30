@@ -7,3 +7,4 @@
 - 메인 저장소로 PR을 보냅니다.
 - DB를 사용하는 경우 다음 메뉴얼을 통하여 마이그레이션으로 DB를 추가 할 수 있도록 작업합니다.
   - http://ci4doc.cikorea.net/dbmgmt/migration.html
+- `README.md`에는 예제의 `설명`, `설치/사용법`을 작성해주세요.
