@@ -1,10 +1,11 @@
-# codeigniter4 예제모음
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 - [codeigniter4 module example](https://github.com/codeigniter-kr/codeigniter4-example)
 
-# 참여방법
+# codeigniter4 예제모음
+
+## 참여방법
 - 저장소를 포크하여 예제명의 branches를 만들고 예제를 푸시합니다.
   - 가능한 추가/수정되는 부분만 추가해주세요.
 - 메인 저장소로 PR을 보냅니다.
@@ -12,7 +13,7 @@
   - http://ci4doc.cikorea.net/dbmgmt/migration.html
 - `README.md`에는 예제의 `설명`, `설치/사용법`을 작성해주세요.
 
-# 도움주신분 👍
+## 도움주신분 👍
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
