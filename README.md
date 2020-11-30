@@ -9,7 +9,7 @@
   - http://ci4doc.cikorea.net/dbmgmt/migration.html
 - `README.md`에는 예제의 `설명`, `설치/사용법`을 작성해주세요.
 
-# 도움주신분
+# 도움주신분 👍
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
