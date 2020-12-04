@@ -1,9 +1,11 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-- [codeigniter4 module example](https://github.com/codeigniter-kr/codeigniter4-example)
 
 # codeigniter4 예제모음
+
+## 예제 리스트
+- [codeigniter4 module example](https://github.com/codeigniter-kr/codeigniter4-example/tree/module)
 
 ## 참여방법
 - 저장소를 포크하여 예제명의 branches를 만들고 예제를 푸시합니다.
